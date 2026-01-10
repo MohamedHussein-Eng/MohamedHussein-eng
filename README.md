@@ -1,13 +1,18 @@
-
 <div align="center">
 
-# Hi there 👋, I'm [Mohamed](https://github.com/MohamedHussein-Eng)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Mohamed;FrontEnd+Developer;React+Specialist;Clean+Code+Enthusiast&center=true&size=30&color=4A90E2&vCenter=true&width=600&height=70)
+  
+  <h3>Passionate about creating beautiful, functional web experiences</h3>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MohamedHussein-Eng)
 
-### Passionate FrontEnd Developer
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedHussein-Eng&color=blue&style=flat-square)
+![Years of Experience](https://img.shields.io/badge/Experience-1%2B%20years-green)
+![Projects Completed](https://img.shields.io/badge/Projects-10%2B-orange)
 
-*I enjoy learning new technologies, solving problems, and building clean, functional, and beautiful software.*
+</div>
 
 ---
 
@@ -96,7 +101,38 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedHussein-Eng&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%"/>
 </div>
----
+
+
+this is good or we can add some things
+
+## 📅 Development Journey
+
+```mermaid
+graph LR
+    A[HTML/CSS] --> B[JavaScript]
+    B --> C[React]
+    C --> D[TypeScript]
+    D --> E[Next.js]
+```
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **[Wheather App]** |Simple App To Hnow The Weather In All The World | Html , js , Bootstrab | [🔗 Live](https://app-of-weather.vercel.app/) |
+| **[What For Dinner]** | Choose The Best Meal For Today | Html , js , Bootstrab | [🔗 Live](https://whatfor-dinner-pied.vercel.app/) |
+| **[Profile To Ahmed Hassan]** |powerful Profile |  Html , js , Bootstrab ,css | [🔗 Live](https://profile-ahmed-hassen.vercel.app/) |
+
+</div>
+
+## ☕ Support Me
+
+If you find my work helpful, consider supporting me:
+<br>
+[
+![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohamedhuss)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/MohamedHussein-Eng)
 
 ## 💡 Fun Fact
 
