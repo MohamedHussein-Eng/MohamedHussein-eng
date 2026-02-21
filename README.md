@@ -120,7 +120,6 @@ graph LR
   
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **[Wheather App]** |Simple App To Hnow The Weather In All The World | Html , js , Bootstrab | [🔗 Live](https://app-of-weather.vercel.app/) |
 | **[What For Dinner]** | Choose The Best Meal For Today | Html , js , Bootstrab | [🔗 Live](https://whatfor-dinner-pied.vercel.app/) |
 | **[Profile To Ahmed Hassan]** |powerful Profile |  Html , js , Bootstrab ,css | [🔗 Live](https://profile-ahmed-hassen.vercel.app/) |
 
